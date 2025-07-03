@@ -40,9 +40,11 @@ This repository contains:
 │   ├── SortZeroOneTwo.java
 │   └── MostWaterContainer.java
 ├── Day03/
+│   ├── ReverseString.java
+│   └── FrequencySort.java
+├── Day04/
 │   ├── 
 │   └── 
-
 ```
 ---
 
@@ -54,7 +56,8 @@ This repository contains:
 | 1 | Max Subarray / Kadane's Algorithm | [Day01/MaxSubarray.java](./Day01/MaxSubarray.java) |
 | 2 | Sort Zero One Two / Dutch National Flag Algorithm | [Day02/SortZeroOneTwo.java](./Day02/SortZeroOneTwo.java) |
 | 2 | Container With Most Water | [Day02/MostWaterContainer.java](./Day02/MostWaterContainer.java) |
-
+| 3 | Reverse String In Place | [Day/03/ReverseString.java](./Day03/ReverseString.java) |
+| 3 | Frequency Sort String | [Day/03/FrequencySort.java](./Day03/FrequencySort.java) |
 
 > 📌 _More questions will be updated regularly..._
 
@@ -62,10 +65,10 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `04/60`  
-> 🔄 Remaining: `56`
+> ✅ Completed: `06/60`  
+> 🔄 Remaining: `54`
 
 ```diff
 + Day 01 ✅
 + Day 02 ✅
-
++ Day 03 ✅
