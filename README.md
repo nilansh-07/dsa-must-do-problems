@@ -43,8 +43,12 @@ This repository contains:
 │   ├── StockSell.java
 │   └── FourSum.java
 ├── Day04/
+│   ├── ReverseString.java
+│   └── FrequencySort.java
+├── Day05/
 │   ├── 
 │   └── 
+
 ```
 ---
 
@@ -58,6 +62,8 @@ This repository contains:
 | 2 | Container With Most Water | [Day02/MostWaterContainer.java](./Day02/MostWaterContainer.java) |
 | 3 | Sell the Stock | [Day/03/StockSell.java](./Day03/StockSell.java) |
 | 3 | Four Sum Problem | [Day/03/FourSum.java](./Day03/FourSum.java) |
+| 4 | Frequency Sort | [Day/04/FrequencySort.java](./Day04/FrequencySort.java) |
+| 4 | Reverse String | [Day/04/ReverseString.java](./Day04/ReverseString.java) |
 
 > 📌 _More questions will be updated regularly..._
 
@@ -65,10 +71,11 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `06/60`  
-> 🔄 Remaining: `54`
+> ✅ Completed: `08/60`  
+> 🔄 Remaining: `52`
 
 ```diff
 + Day 01 ✅
 + Day 02 ✅
 + Day 03 ✅
++ Day 04 ✅
