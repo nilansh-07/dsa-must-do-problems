@@ -40,8 +40,8 @@ This repository contains:
 │   ├── SortZeroOneTwo.java
 │   └── MostWaterContainer.java
 ├── Day03/
-│   ├── ReverseString.java
-│   └── FrequencySort.java
+│   ├── StockSell.java
+│   └── FourSum.java
 ├── Day04/
 │   ├── 
 │   └── 
@@ -56,8 +56,8 @@ This repository contains:
 | 1 | Max Subarray / Kadane's Algorithm | [Day01/MaxSubarray.java](./Day01/MaxSubarray.java) |
 | 2 | Sort Zero One Two / Dutch National Flag Algorithm | [Day02/SortZeroOneTwo.java](./Day02/SortZeroOneTwo.java) |
 | 2 | Container With Most Water | [Day02/MostWaterContainer.java](./Day02/MostWaterContainer.java) |
-| 3 | Reverse String In Place | [Day/03/ReverseString.java](./Day03/ReverseString.java) |
-| 3 | Frequency Sort String | [Day/03/FrequencySort.java](./Day03/FrequencySort.java) |
+| 3 | Sell the Stock | [Day/03/StockSell.java](./Day03/StockSell.java) |
+| 3 | Four Sum Problem | [Day/03/FourSum.java](./Day03/FourSum.java) |
 
 > 📌 _More questions will be updated regularly..._
 
