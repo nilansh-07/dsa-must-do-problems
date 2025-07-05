@@ -57,7 +57,7 @@ This repository contains:
 | Day | Problem | Solution |
 |-----|---------|----------|
 | 1 | 2 Sum | [Day01/TwoSum.java](./Day01/TwoSum.java) |
-| 1 | Max Subarray / Kadane's Algorithm | [Day01/MaxSubarray.java](./Day01/MaxSubarray.java) |
+| 1 | Max Subarray / Kadane's Algorithm | [Day01/MaxSubarray.java](.DSA-30Days-Challenge/Day01/MaxSubarray.java) |
 | 2 | Sort Zero One Two / Dutch National Flag Algorithm | [Day02/SortZeroOneTwo.java](./Day02/SortZeroOneTwo.java) |
 | 2 | Container With Most Water | [Day02/MostWaterContainer.java](./Day02/MostWaterContainer.java) |
 | 3 | Sell the Stock | [Day/03/StockSell.java](./Day03/StockSell.java) |
