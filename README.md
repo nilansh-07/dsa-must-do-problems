@@ -56,14 +56,14 @@ This repository contains:
 
 | Day | Problem | Solution |
 |-----|---------|----------|
-| 1 | 2 Sum | [Day01/TwoSum.java](./Day01/TwoSum.java) |
+| 1 | 2 Sum | [Day01/TwoSum.java](DSA-30Days-Challenge/Day01/TwoSum.java) |
 | 1 | Max Subarray / Kadane's Algorithm | [Day01/MaxSubarray.java](DSA-30Days-Challenge/Day01/MaxSubarray.java) |
-| 2 | Sort Zero One Two / Dutch National Flag Algorithm | [Day02/SortZeroOneTwo.java](./Day02/SortZeroOneTwo.java) |
-| 2 | Container With Most Water | [Day02/MostWaterContainer.java](./Day02/MostWaterContainer.java) |
-| 3 | Sell the Stock | [Day/03/StockSell.java](./Day03/StockSell.java) |
-| 3 | Four Sum Problem | [Day/03/FourSum.java](./Day03/FourSum.java) |
-| 4 | Frequency Sort | [Day/04/FrequencySort.java](./Day04/FrequencySort.java) |
-| 4 | Reverse String | [Day/04/ReverseString.java](./Day04/ReverseString.java) |
+| 2 | Sort Zero One Two / Dutch National Flag Algorithm | [Day02/SortZeroOneTwo.java](DSA-30Days-Challenge/Day02/SortZeroOneTwo.java) |
+| 2 | Container With Most Water | [Day02/MostWaterContainer.java](DSA-30Days-Challenge/Day02/MostWaterContainer.java) |
+| 3 | Sell the Stock | [Day/03/StockSell.java](DSA-30Days-Challenge/Day03/StockSell.java) |
+| 3 | Four Sum Problem | [Day/03/FourSum.java](DSA-30Days-Challenge/Day03/FourSum.java) |
+| 4 | Frequency Sort | [Day/04/FrequencySort.java](DSA-30Days-Challenge/Day04/FrequencySort.java) |
+| 4 | Reverse String | [Day/04/ReverseString.java](DSA-30Days-Challenge/Day04/ReverseString.java) |
 
 > 📌 _More questions will be updated regularly..._
 
