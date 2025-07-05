@@ -46,6 +46,9 @@ This repository contains:
 │   ├── ReverseString.java
 │   └── FrequencySort.java
 ├── Day05/
+│   ├── PalindromePartitioning.java
+│   └── PermutationInSubstring.java
+├── Day06/
 │   ├── 
 │   └── 
 
@@ -64,6 +67,9 @@ This repository contains:
 | 3 | Four Sum Problem | [Day/03/FourSum.java](DSA-30Days-Challenge/Day03/FourSum.java) |
 | 4 | Frequency Sort | [Day/04/FrequencySort.java](DSA-30Days-Challenge/Day04/FrequencySort.java) |
 | 4 | Reverse String | [Day/04/ReverseString.java](DSA-30Days-Challenge/Day04/ReverseString.java) |
+| 5 | Palindrome Partitioning | [Day/05/PalindromePartitioning.java](DSA-30Days-Challenge/Day05/PalindromePartitioning.java) |
+| 5 | Permutation In Substring | [Day/05/PermutationInSubstring.java](DSA-30Days-Challenge/Day05/PermutationInSubstring.java) |
+
 
 > 📌 _More questions will be updated regularly..._
 
@@ -71,11 +77,12 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `08/60`  
-> 🔄 Remaining: `52`
+> ✅ Completed: `10/60`  
+> 🔄 Remaining: `50`
 
 ```diff
 + Day 01 ✅
 + Day 02 ✅
 + Day 03 ✅
 + Day 04 ✅
++ Day 05 ✅
