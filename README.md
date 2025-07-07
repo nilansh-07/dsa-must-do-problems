@@ -49,8 +49,14 @@ This repository contains:
 │   ├── PalindromePartitioning.java
 │   └── PermutationInSubstring.java
 ├── Day06/
+│   ├── LongestRepeatingCharReplacement.java
+│   └── ValidPalindrome.java
+├── Day07/
+│   ├── RemoveElements.java
+│   └── ReverseLinkedList.java
+├── Day08/
 │   ├── 
-│   └── 
+│   └──
 
 ```
 ---
@@ -71,7 +77,8 @@ This repository contains:
 | 5 | Permutation In Substring | [Day/05/PermutationInSubstring.java](DSA-30Days-Challenge/Day05/PermutationInSubstring.java) |
 | 6 | Longest Repeating Character Replacement | [Day/06/LongestRepeatingCharReplacement.java](DSA-30Days-Challenge/Day06/LongestRepeatingCharReplacement.java) |
 | 6 | Valid Palindrome | [Day/06/ValidPalindrome.java](DSA-30Days-Challenge/Day06/ValidPalindrome.java) |
-
+| 7 | Remove Matching Elements | [Day/07/RemoveElements.java](DSA-30Days-Challenge/Day07/RemoveElements.java) |
+| 7 | Reverse Linked List | [Day/07/ReverseLinkedList.java](DSA-30Days-Challenge/Day07/ReverseLinkedList.java) |
 
 
 > 📌 _More questions will be updated regularly..._
@@ -80,8 +87,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `12/60`  
-> 🔄 Remaining: `48`
+> ✅ Completed: `14/60`  
+> 🔄 Remaining: `46`
 
 ```diff
 + Day 01 ✅
@@ -90,4 +97,6 @@ This repository contains:
 + Day 04 ✅
 + Day 05 ✅
 + Day 06 ✅
++ Day 07 ✅
+
 
