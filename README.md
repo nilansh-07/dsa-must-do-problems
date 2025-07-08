@@ -55,7 +55,7 @@ This repository contains:
 │   ├── RemoveElements.java
 │   └── ReverseLinkedList.java
 ├── Day08/
-│   ├── 
+│   ├── PowerSet.java
 │   └──
 
 ```
@@ -79,6 +79,9 @@ This repository contains:
 | 6 | Valid Palindrome | [Day/06/ValidPalindrome.java](DSA-30Days-Challenge/Day06/ValidPalindrome.java) |
 | 7 | Remove Matching Elements | [Day/07/RemoveElements.java](DSA-30Days-Challenge/Day07/RemoveElements.java) |
 | 7 | Reverse Linked List | [Day/07/ReverseLinkedList.java](DSA-30Days-Challenge/Day07/ReverseLinkedList.java) |
+| 8 | Power Set | [Day/08/PowerSet.java](DSA-30Days-Challenge/Day08/PowerSet.java) |
+| 8 | Generate Parentheses | [Day/08/GenerateParentheses.java](DSA-30Days-Challenge/Day08/GenerateParentheses.java) |
+
 
 
 > 📌 _More questions will be updated regularly..._
@@ -87,8 +90,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `14/60`  
-> 🔄 Remaining: `46`
+> ✅ Completed: `16/60`  
+> 🔄 Remaining: `44`
 
 ```diff
 + Day 01 ✅
@@ -98,5 +101,4 @@ This repository contains:
 + Day 05 ✅
 + Day 06 ✅
 + Day 07 ✅
-
-
++ Day 08 ✅
