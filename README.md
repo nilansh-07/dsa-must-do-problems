@@ -57,6 +57,9 @@ This repository contains:
 ├── Day08/
 │   ├── PowerSet.java
 │   └── GenerateParentheses.java
+├── Day09/
+│   ├── LRUCache.java
+│   └── FirstMissingPositive.java
 
 ```
 ---
@@ -81,6 +84,8 @@ This repository contains:
 | 7 | Reverse Linked List | [Day/07/ReverseLinkedList.java](DSA-30Days-Challenge/Day07/ReverseLinkedList.java) |
 | 8 | Power Set | [Day/08/PowerSet.java](DSA-30Days-Challenge/Day08/PowerSet.java) |
 | 8 | Generate Parentheses | [Day/08/GenerateParentheses.java](DSA-30Days-Challenge/Day08/GenerateParentheses.java) |
+| 9 | LRU Cache | [Day/09/PowerSet.java](DSA-30Days-Challenge/Day09/LRUCache.java) |
+| 9 | First Missing Positive | [Day/09/GenerateParentheses.java](DSA-30Days-Challenge/Day09/FirstMissingPositive.java) |
 
 
 
@@ -90,8 +95,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `16/60`  
-> 🔄 Remaining: `44`
+> ✅ Completed: `18/60`  
+> 🔄 Remaining: `42`
 
 ```diff
 + Day 01 ✅
@@ -102,3 +107,5 @@ This repository contains:
 + Day 06 ✅
 + Day 07 ✅
 + Day 08 ✅
++ Day 09 ✅
+
