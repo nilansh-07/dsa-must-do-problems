@@ -85,7 +85,7 @@ This repository contains:
 | 8 | Power Set | [Day/08/PowerSet.java](DSA-30Days-Challenge/Day08/PowerSet.java) |
 | 8 | Generate Parentheses | [Day/08/GenerateParentheses.java](DSA-30Days-Challenge/Day08/GenerateParentheses.java) |
 | 9 | LRU Cache | [Day/09/PowerSet.java](DSA-30Days-Challenge/Day09/LRUCache.java) |
-| 9 | First Missing Positive | [Day/09/GenerateParentheses.java](DSA-30Days-Challenge/Day09/FirstMissingPositive.java) |
+| 9 | First Missing Positive | [Day/09/FirstMissingPositive.java](DSA-30Days-Challenge/Day09/FirstMissingPositive.java) |
 
 
 
