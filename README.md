@@ -56,7 +56,7 @@ This repository contains:
 │   └── ReverseLinkedList.java
 ├── Day08/
 │   ├── PowerSet.java
-│   └──
+│   └── GenerateParentheses.java
 
 ```
 ---
