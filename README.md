@@ -60,6 +60,12 @@ This repository contains:
 ├── Day09/
 │   ├── LRUCache.java
 │   └── FirstMissingPositive.java
+├── Day10/
+│   ├── SpiralMatrix.java
+│   └── ValidSudoku.java
+├── Day11/
+│   ├── 
+│   └── 
 
 ```
 ---
@@ -86,6 +92,8 @@ This repository contains:
 | 8 | Generate Parentheses | [Day/08/GenerateParentheses.java](DSA-30Days-Challenge/Day08/GenerateParentheses.java) |
 | 9 | LRU Cache | [Day/09/PowerSet.java](DSA-30Days-Challenge/Day09/LRUCache.java) |
 | 9 | First Missing Positive | [Day/09/FirstMissingPositive.java](DSA-30Days-Challenge/Day09/FirstMissingPositive.java) |
+| 10 | Spiral Matrix | [Day/010/SpiralMatrix.java](DSA-30Days-Challenge/Day10/SpiralMatrix.java) |
+| 10 | Valid Sudoku | [Day/10/ValidSudoku.java](DSA-30Days-Challenge/Day10/ValidSudoku.java) |
 
 
 
@@ -95,8 +103,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `18/60`  
-> 🔄 Remaining: `42`
+> ✅ Completed: `20/60`  
+> 🔄 Remaining: `40`
 
 ```diff
 + Day 01 ✅
@@ -108,4 +116,6 @@ This repository contains:
 + Day 07 ✅
 + Day 08 ✅
 + Day 09 ✅
++ Day 10 ✅
+
 
