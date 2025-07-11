@@ -64,6 +64,9 @@ This repository contains:
 │   ├── SpiralMatrix.java
 │   └── ValidSudoku.java
 ├── Day11/
+│   ├── SurroundedRegions.java
+│   └── WordSearch.java
+├── Day12/
 │   ├── 
 │   └── 
 
@@ -94,6 +97,9 @@ This repository contains:
 | 9 | First Missing Positive | [Day/09/FirstMissingPositive.java](DSA-30Days-Challenge/Day09/FirstMissingPositive.java) |
 | 10 | Spiral Matrix | [Day/10/SpiralMatrix.java](DSA-30Days-Challenge/Day10/SpiralMatrix.java) |
 | 10 | Valid Sudoku | [Day/10/ValidSudoku.java](DSA-30Days-Challenge/Day10/ValidSudoku.java) |
+| 11 | Surrounded Regions | [Day/11/SurroundedRegions.java](DSA-30Days-Challenge/Day11/SurroundedRegions.java) |
+| 11 | Word Search | [Day/11/WordSearch.java](DSA-30Days-Challenge/Day11/WordSearch.java) |
+
 
 
 
@@ -103,8 +109,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `20/60`  
-> 🔄 Remaining: `40`
+> ✅ Completed: `22/60`  
+> 🔄 Remaining: `38`
 
 ```diff
 + Day 01 ✅
@@ -117,5 +123,4 @@ This repository contains:
 + Day 08 ✅
 + Day 09 ✅
 + Day 10 ✅
-
-
++ Day 11 ✅
