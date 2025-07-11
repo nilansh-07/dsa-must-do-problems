@@ -67,8 +67,11 @@ This repository contains:
 │   ├── SurroundedRegions.java
 │   └── WordSearch.java
 ├── Day12/
+│   ├── FlattenBinaryTree.java
+│   └── MultiplyLinkedLists.java
+├── Day13/
 │   ├── 
-│   └── 
+│   └──
 
 ```
 ---
@@ -99,8 +102,8 @@ This repository contains:
 | 10 | Valid Sudoku | [Day/10/ValidSudoku.java](DSA-30Days-Challenge/Day10/ValidSudoku.java) |
 | 11 | Surrounded Regions | [Day/11/SurroundedRegions.java](DSA-30Days-Challenge/Day11/SurroundedRegions.java) |
 | 11 | Word Search | [Day/11/WordSearch.java](DSA-30Days-Challenge/Day11/WordSearch.java) |
-
-
+| 12 | Flatten Binary Tree to Linked List | [Day/12/FlattenBinaryTree.java](DSA-30Days-Challenge/Day12/FlattenBinaryTree.java) |
+| 12 | Multiply Two Linked Lists | [Day/12/MultiplyLinkedLists.java](DSA-30Days-Challenge/Day12/MultiplyLinkedLists.java) |
 
 
 > 📌 _More questions will be updated regularly..._
@@ -109,8 +112,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `22/60`  
-> 🔄 Remaining: `38`
+> ✅ Completed: `24/60`  
+> 🔄 Remaining: `36`
 
 ```diff
 + Day 01 ✅
@@ -124,3 +127,4 @@ This repository contains:
 + Day 09 ✅
 + Day 10 ✅
 + Day 11 ✅
++ Day 12 ✅
