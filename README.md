@@ -70,8 +70,8 @@ This repository contains:
 │   ├── FlattenBinaryTree.java
 │   └── MultiplyLinkedLists.java
 ├── Day13/
-│   ├── 
-│   └──
+│   ├── MergeSortedLists.java
+│   └── ReverseKGroup.java
 
 ```
 ---
@@ -104,6 +104,9 @@ This repository contains:
 | 11 | Word Search | [Day/11/WordSearch.java](DSA-30Days-Challenge/Day11/WordSearch.java) |
 | 12 | Flatten Binary Tree to Linked List | [Day/12/FlattenBinaryTree.java](DSA-30Days-Challenge/Day12/FlattenBinaryTree.java) |
 | 12 | Multiply Two Linked Lists | [Day/12/MultiplyLinkedLists.java](DSA-30Days-Challenge/Day12/MultiplyLinkedLists.java) |
+| 13 | Merge Two Sorted Linked Lists | [Day/13/MergeSortedLists.java](DSA-30Days-Challenge/Day13/MergeSortedLists.java) |
+| 13 | Reverse Nodes in k-Group | [Day/13/ReverseKGroup.java](DSA-30Days-Challenge/Day13/ReverseKGroup.java) |
+
 
 
 > 📌 _More questions will be updated regularly..._
@@ -112,8 +115,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `24/60`  
-> 🔄 Remaining: `36`
+> ✅ Completed: `26/60`  
+> 🔄 Remaining: `34`
 
 ```diff
 + Day 01 ✅
@@ -128,3 +131,4 @@ This repository contains:
 + Day 10 ✅
 + Day 11 ✅
 + Day 12 ✅
++ Day 13 ✅
