@@ -72,6 +72,9 @@ This repository contains:
 ├── Day13/
 │   ├── MergeSortedLists.java
 │   └── ReverseKGroup.java
+├── Day14/
+│   ├── ReorderList.java
+│   └── SwapPairs.java
 
 ```
 ---
@@ -106,7 +109,8 @@ This repository contains:
 | 12 | Multiply Two Linked Lists | [Day/12/MultiplyLinkedLists.java](DSA-30Days-Challenge/Day12/MultiplyLinkedLists.java) |
 | 13 | Merge Two Sorted Linked Lists | [Day/13/MergeSortedLists.java](DSA-30Days-Challenge/Day13/MergeSortedLists.java) |
 | 13 | Reverse Nodes in k-Group | [Day/13/ReverseKGroup.java](DSA-30Days-Challenge/Day13/ReverseKGroup.java) |
-
+| 14 | Reorder List | [Day/14/ReorderList.java](DSA-30Days-Challenge/Day14/ReorderList.java) |
+| 14 | Swap Nodes in Pairs | [Day/14/SwapPairs.java](DSA-30Days-Challenge/Day14/SwapPairs.java) |
 
 
 > 📌 _More questions will be updated regularly..._
@@ -115,8 +119,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `26/60`  
-> 🔄 Remaining: `34`
+> ✅ Completed: `28/60`  
+> 🔄 Remaining: `32`
 
 ```diff
 + Day 01 ✅
@@ -132,3 +136,4 @@ This repository contains:
 + Day 11 ✅
 + Day 12 ✅
 + Day 13 ✅
++ Day 14 ✅
