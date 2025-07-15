@@ -75,6 +75,9 @@ This repository contains:
 ├── Day14/
 │   ├── ReorderList.java
 │   └── SwapPairs.java
+├── Day15/
+│   ├── MissingNumberXOR.java
+│   └── 
 
 ```
 ---
@@ -111,6 +114,8 @@ This repository contains:
 | 13 | Reverse Nodes in k-Group | [Day/13/ReverseKGroup.java](DSA-30Days-Challenge/Day13/ReverseKGroup.java) |
 | 14 | Reorder List | [Day/14/ReorderList.java](DSA-30Days-Challenge/Day14/ReorderList.java) |
 | 14 | Swap Nodes in Pairs | [Day/14/SwapPairs.java](DSA-30Days-Challenge/Day14/SwapPairs.java) |
+| 15 | Missing Number | [Day/15/MissingNumberXOR.java](DSA-30Days-Challenge/Day15/MissingNumberXOR.java) |
+
 
 
 > 📌 _More questions will be updated regularly..._
@@ -119,8 +124,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `28/60`  
-> 🔄 Remaining: `32`
+> ✅ Completed: `29/60`  
+> 🔄 Remaining: `31`
 
 ```diff
 + Day 01 ✅
@@ -137,3 +142,5 @@ This repository contains:
 + Day 12 ✅
 + Day 13 ✅
 + Day 14 ✅
++ Day 15 ✅
+
