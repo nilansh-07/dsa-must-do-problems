@@ -77,7 +77,7 @@ This repository contains:
 │   └── SwapPairs.java
 ├── Day15/
 │   ├── MissingNumberXOR.java
-│   └── 
+│   └── CountingBits.java
 
 ```
 ---
@@ -115,6 +115,7 @@ This repository contains:
 | 14 | Reorder List | [Day/14/ReorderList.java](DSA-30Days-Challenge/Day14/ReorderList.java) |
 | 14 | Swap Nodes in Pairs | [Day/14/SwapPairs.java](DSA-30Days-Challenge/Day14/SwapPairs.java) |
 | 15 | Missing Number | [Day/15/MissingNumberXOR.java](DSA-30Days-Challenge/Day15/MissingNumberXOR.java) |
+| 15 | Counting Bits | [Day/15/CountingBits.java](DSA-30Days-Challenge/Day15/CountingBits.java) |
 
 
 
@@ -124,8 +125,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `29/60`  
-> 🔄 Remaining: `31`
+> ✅ Completed: `30/60`  
+> 🔄 Remaining: `30`
 
 ```diff
 + Day 01 ✅
