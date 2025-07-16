@@ -120,7 +120,7 @@ This repository contains:
 | 15 | Missing Number | [Day/15/MissingNumberXOR.java](DSA-30Days-Challenge/Day15/MissingNumberXOR.java) |
 | 15 | Counting Bits | [Day/15/CountingBits.java](DSA-30Days-Challenge/Day15/CountingBits.java) |
 | 16 | Maximal Rectangle | [Day/16/MaximalRectangle.java](DSA-30Days-Challenge/Day16/MaximalRectangle.java) |
-| 16 | Counting Bits | [Day/16/LargestRectangle.java](DSA-30Days-Challenge/Day16/LargestRectangle.java) |
+| 16 | Largest Rectangle in Histogram | [Day/16/LargestRectangle.java](DSA-30Days-Challenge/Day16/LargestRectangle.java) |
 
 
 > 📌 _More questions will be updated regularly..._
