@@ -78,6 +78,9 @@ This repository contains:
 ├── Day15/
 │   ├── MissingNumberXOR.java
 │   └── CountingBits.java
+├── Day16/
+│   ├── MaximalRectangle.java
+│   └── LargestRectangle.java
 
 ```
 ---
