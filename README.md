@@ -119,7 +119,8 @@ This repository contains:
 | 14 | Swap Nodes in Pairs | [Day/14/SwapPairs.java](DSA-30Days-Challenge/Day14/SwapPairs.java) |
 | 15 | Missing Number | [Day/15/MissingNumberXOR.java](DSA-30Days-Challenge/Day15/MissingNumberXOR.java) |
 | 15 | Counting Bits | [Day/15/CountingBits.java](DSA-30Days-Challenge/Day15/CountingBits.java) |
-
+| 16 | Maximal Rectangle | [Day/16/MaximalRectangle.java](DSA-30Days-Challenge/Day16/MaximalRectangle.java) |
+| 16 | Counting Bits | [Day/16/LargestRectangle.java](DSA-30Days-Challenge/Day16/LargestRectangle.java) |
 
 
 > 📌 _More questions will be updated regularly..._
@@ -128,8 +129,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `30/60`  
-> 🔄 Remaining: `30`
+> ✅ Completed: `32/60`  
+> 🔄 Remaining: `28`
 
 ```diff
 + Day 01 ✅
@@ -147,4 +148,4 @@ This repository contains:
 + Day 13 ✅
 + Day 14 ✅
 + Day 15 ✅
-
++ Day 16 ✅
