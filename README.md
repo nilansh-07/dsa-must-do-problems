@@ -83,7 +83,7 @@ This repository contains:
 │   └── LargestRectangle.java
 ├── Day17/
 │   ├── StackImplementation.java
-│   └── 
+│   └── Main.java
 
 ```
 ---
@@ -125,6 +125,7 @@ This repository contains:
 | 16 | Maximal Rectangle | [Day/16/MaximalRectangle.java](DSA-30Days-Challenge/Day16/MaximalRectangle.java) |
 | 16 | Largest Rectangle in Histogram | [Day/16/LargestRectangle.java](DSA-30Days-Challenge/Day16/LargestRectangle.java) |
 | 17 | Implement Stack using Queues | [Day/17/StackImplementation.java](DSA-30Days-Challenge/Day17/StackImplementation.java) |
+| 17 | BST Iterator | [Day/17/Main.java](DSA-30Days-Challenge/Day17/Main.java) |
 
 
 
@@ -134,8 +135,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `33/60`  
-> 🔄 Remaining: `27`
+> ✅ Completed: `34/60`  
+> 🔄 Remaining: `26`
 
 ```diff
 + Day 01 ✅
@@ -154,3 +155,5 @@ This repository contains:
 + Day 14 ✅
 + Day 15 ✅
 + Day 16 ✅
++ Day 17 ✅
+
