@@ -84,6 +84,9 @@ This repository contains:
 ├── Day17/
 │   ├── StackImplementation.java
 │   └── Main.java
+├── Day18/
+│   ├── RainWaterTrapper.java
+│   └── DailyTemperatures.java
 
 ```
 ---
@@ -126,7 +129,8 @@ This repository contains:
 | 16 | Largest Rectangle in Histogram | [Day/16/LargestRectangle.java](DSA-30Days-Challenge/Day16/LargestRectangle.java) |
 | 17 | Implement Stack using Queues | [Day/17/StackImplementation.java](DSA-30Days-Challenge/Day17/StackImplementation.java) |
 | 17 | BST Iterator | [Day/17/Main.java](DSA-30Days-Challenge/Day17/Main.java) |
-
+| 18 | Daily Temperatures | [Day/18/DailyTemperatures.java](DSA-30Days-Challenge/Day18/DailyTemperatures.java) |
+| 18 | Trapping Rain Water | [Day/18/RainWaterTrapper.java](DSA-30Days-Challenge/Day18/RainWaterTrapper.java) |
 
 
 > 📌 _More questions will be updated regularly..._
@@ -135,8 +139,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `34/60`  
-> 🔄 Remaining: `26`
+> ✅ Completed: `36/60`  
+> 🔄 Remaining: `24`
 
 ```diff
 + Day 01 ✅
@@ -156,4 +160,4 @@ This repository contains:
 + Day 15 ✅
 + Day 16 ✅
 + Day 17 ✅
-
++ Day 18 ✅
