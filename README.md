@@ -90,6 +90,9 @@ This repository contains:
 ├── Day19/
 │   ├── MinStack.java
 │   └── SlidingWindowMaximum.java
+├── Day20/
+│   ├── BalancedBinaryTree.java
+│   └── LCAFinder.java
 
 ```
 ---
@@ -136,6 +139,8 @@ This repository contains:
 | 18 | Trapping Rain Water | [Day/18/RainWaterTrapper.java](DSA-30Days-Challenge/Day18/RainWaterTrapper.java) |
 | 19 | Min Stack | [Day/19/MinStack.java](DSA-30Days-Challenge/Day19/MinStack.java) |
 | 19 | Sliding Window Maximum | [Day/19/SlidingWindowMaximum.java](DSA-30Days-Challenge/Day19/SlidingWindowMaximum.java) |
+| 20 | Lowest Common Ancestor of a Binary Tree | [Day/20/LCAFinder.java](DSA-30Days-Challenge/Day20/LCAFinder.java) |
+| 20 | Balanced Binary Tree | [Day/20/BalancedBinaryTree.java](DSA-30Days-Challenge/Day20/BalancedBinaryTree.java) |
 
 > 📌 _More questions will be updated regularly..._
 
@@ -143,8 +148,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `38/60`  
-> 🔄 Remaining: `22`
+> ✅ Completed: `40/60`  
+> 🔄 Remaining: `20`
 
 ```diff
 + Day 01 ✅
@@ -166,3 +171,4 @@ This repository contains:
 + Day 17 ✅
 + Day 18 ✅
 + Day 19 ✅
++ Day 20 ✅
