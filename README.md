@@ -93,6 +93,9 @@ This repository contains:
 ├── Day20/
 │   ├── BalancedBinaryTree.java
 │   └── LCAFinder.java
+├── Day21/
+│   ├── KthSmallestInBST.java
+│   └── LevelOrderTraversal.java
 
 ```
 ---
@@ -141,6 +144,8 @@ This repository contains:
 | 19 | Sliding Window Maximum | [Day/19/SlidingWindowMaximum.java](DSA-30Days-Challenge/Day19/SlidingWindowMaximum.java) |
 | 20 | Lowest Common Ancestor of a Binary Tree | [Day/20/LCAFinder.java](DSA-30Days-Challenge/Day20/LCAFinder.java) |
 | 20 | Balanced Binary Tree | [Day/20/BalancedBinaryTree.java](DSA-30Days-Challenge/Day20/BalancedBinaryTree.java) |
+| 21 | Kth Smallest Element in a BST | [Day/21/KthSmallestInBST.java](DSA-30Days-Challenge/Day21/KthSmallestInBST.java) |
+| 21 | Binary Tree Level Order Traversal | [Day/21/LevelOrderTraversal.java](DSA-30Days-Challenge/Day21/LevelOrderTraversal.java) |
 
 > 📌 _More questions will be updated regularly..._
 
@@ -148,8 +153,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `40/60`  
-> 🔄 Remaining: `20`
+> ✅ Completed: `42/60`  
+> 🔄 Remaining: `18`
 
 ```diff
 + Day 01 ✅
@@ -172,3 +177,4 @@ This repository contains:
 + Day 18 ✅
 + Day 19 ✅
 + Day 20 ✅
++ Day 21 ✅
