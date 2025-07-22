@@ -96,6 +96,9 @@ This repository contains:
 ├── Day21/
 │   ├── KthSmallestInBST.java
 │   └── LevelOrderTraversal.java
+├── Day22/
+│   ├── Trie.java
+│   └── GroupAnagrams.java
 
 ```
 ---
@@ -146,6 +149,8 @@ This repository contains:
 | 20 | Balanced Binary Tree | [Day/20/BalancedBinaryTree.java](DSA-30Days-Challenge/Day20/BalancedBinaryTree.java) |
 | 21 | Kth Smallest Element in a BST | [Day/21/KthSmallestInBST.java](DSA-30Days-Challenge/Day21/KthSmallestInBST.java) |
 | 21 | Binary Tree Level Order Traversal | [Day/21/LevelOrderTraversal.java](DSA-30Days-Challenge/Day21/LevelOrderTraversal.java) |
+| 22 | Trie | [Day/22/Trie.java](DSA-30Days-Challenge/Day22/Trie.java) |
+| 22 | GroupAnagrams | [Day/22/GroupAnagrams.java](DSA-30Days-Challenge/Day22/GroupAnagrams.java) |
 
 > 📌 _More questions will be updated regularly..._
 
@@ -153,8 +158,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `42/60`  
-> 🔄 Remaining: `18`
+> ✅ Completed: `44/60`  
+> 🔄 Remaining: `16`
 
 ```diff
 + Day 01 ✅
@@ -178,3 +183,5 @@ This repository contains:
 + Day 19 ✅
 + Day 20 ✅
 + Day 21 ✅
++ Day 22 ✅
+
