@@ -99,6 +99,9 @@ This repository contains:
 ├── Day22/
 │   ├── SumRootToLeafNumbers.java
 │   └── MaxPathSumInBinaryTree.java
+├── Day23/
+│   ├── Trie.java
+│   └── GroupAnagrams.java
 
 ```
 ---
@@ -151,6 +154,8 @@ This repository contains:
 | 21 | Binary Tree Level Order Traversal | [Day/21/LevelOrderTraversal.java](DSA-30Days-Challenge/Day21/LevelOrderTraversal.java) |
 | 22 | Sum of Root to Leaf Numbers | [Day/22/SumRootToLeafNumbers.java](DSA-30Days-Challenge/Day22/SumRootToLeafNumbers.java) |
 | 22 | Binary Tree Maximum Path Sum | [Day/22/MaxPathSumInBinaryTree.java](DSA-30Days-Challenge/Day22/MaxPathSumInBinaryTree.java) |
+| 23 | Trie | [Day/23/Trie.java](DSA-30Days-Challenge/Day23/Trie.java) |
+| 23 | Group Anagrams | [Day/23/GroupAnagrams.java](DSA-30Days-Challenge/Day23/GroupAnagrams.java) |
 
 > 📌 _More questions will be updated regularly..._
 
@@ -158,8 +163,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `44/60`  
-> 🔄 Remaining: `16`
+> ✅ Completed: `46/60`  
+> 🔄 Remaining: `14`
 
 ```diff
 + Day 01 ✅
@@ -184,4 +189,6 @@ This repository contains:
 + Day 20 ✅
 + Day 21 ✅
 + Day 22 ✅
++ Day 23 ✅
+
 
