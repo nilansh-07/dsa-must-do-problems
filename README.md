@@ -102,6 +102,9 @@ This repository contains:
 ├── Day23/
 │   ├── Trie.java
 │   └── GroupAnagrams.java
+├── Day24/
+│   ├── MedianFinder.java
+│   └── MergeKSortedLists.java
 
 ```
 ---
@@ -156,6 +159,8 @@ This repository contains:
 | 22 | Binary Tree Maximum Path Sum | [Day/22/MaxPathSumInBinaryTree.java](DSA-30Days-Challenge/Day22/MaxPathSumInBinaryTree.java) |
 | 23 | Trie | [Day/23/Trie.java](DSA-30Days-Challenge/Day23/Trie.java) |
 | 23 | Group Anagrams | [Day/23/GroupAnagrams.java](DSA-30Days-Challenge/Day23/GroupAnagrams.java) |
+| 24 | Median Finder Program | [Day/24/MedianFinder.java](DSA-30Days-Challenge/Day24/MedianFinder.java) |
+| 24 | Merging K Sorted Linked Lists | [Day/24/MergeKSortedLists.java](DSA-30Days-Challenge/Day24/MergeKSortedLists.java) |
 
 > 📌 _More questions will be updated regularly..._
 
@@ -163,8 +168,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `46/60`  
-> 🔄 Remaining: `14`
+> ✅ Completed: `48/60`  
+> 🔄 Remaining: `12`
 
 ```diff
 + Day 01 ✅
@@ -190,5 +195,4 @@ This repository contains:
 + Day 21 ✅
 + Day 22 ✅
 + Day 23 ✅
-
-
++ Day 24 ✅
