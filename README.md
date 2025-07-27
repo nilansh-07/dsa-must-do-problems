@@ -105,6 +105,9 @@ This repository contains:
 ├── Day24/
 │   ├── MedianFinder.java
 │   └── MergeKSortedLists.java
+├── Day25/
+│   ├── NearestZeroMatrix.java
+│   └── FloodFillImage.java
 
 ```
 ---
@@ -161,6 +164,8 @@ This repository contains:
 | 23 | Group Anagrams | [Day/23/GroupAnagrams.java](DSA-30Days-Challenge/Day23/GroupAnagrams.java) |
 | 24 | Median Finder Program | [Day/24/MedianFinder.java](DSA-30Days-Challenge/Day24/MedianFinder.java) |
 | 24 | Merging K Sorted Linked Lists | [Day/24/MergeKSortedLists.java](DSA-30Days-Challenge/Day24/MergeKSortedLists.java) |
+| 25 | Nearest 0 in Matrix | [Day/25/NearestZeroMatrix.java](DSA-30Days-Challenge/Day25/NearestZeroMatrix.java) |
+| 25 | Flood Fill Algorithm | [Day/25/FloodFillImage.java](DSA-30Days-Challenge/Day25/FloodFillImage.java) |
 
 > 📌 _More questions will be updated regularly..._
 
@@ -168,8 +173,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `48/60`  
-> 🔄 Remaining: `12`
+> ✅ Completed: `50/60`  
+> 🔄 Remaining: `10`
 
 ```diff
 + Day 01 ✅
@@ -196,3 +201,5 @@ This repository contains:
 + Day 22 ✅
 + Day 23 ✅
 + Day 24 ✅
++ Day 25 ✅
+
