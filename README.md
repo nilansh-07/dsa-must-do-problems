@@ -168,8 +168,8 @@ This repository contains:
 | 24 | Merging K Sorted Linked Lists | [Day/24/MergeKSortedLists.java](DSA-30Days-Challenge/Day24/MergeKSortedLists.java) |
 | 25 | Nearest 0 in Matrix | [Day/25/NearestZeroMatrix.java](DSA-30Days-Challenge/Day25/NearestZeroMatrix.java) |
 | 25 | Flood Fill Algorithm | [Day/25/FloodFillImage.java](DSA-30Days-Challenge/Day25/FloodFillImage.java) |
-| 26 | Nearest 0 in Matrix | [Day/26/CloneGraph.java](DSA-30Days-Challenge/Day26/CloneGraph.java) |
-| 26 | Flood Fill Algorithm | [Day/26/NumberOfIslands.java](DSA-30Days-Challenge/Day26/NumberOfIslands.java) |
+| 26 | Clone Graph | [Day/26/CloneGraph.java](DSA-30Days-Challenge/Day26/CloneGraph.java) |
+| 26 | Number of Islands | [Day/26/NumberOfIslands.java](DSA-30Days-Challenge/Day26/NumberOfIslands.java) |
 
 > 📌 _More questions will be updated regularly..._
 
