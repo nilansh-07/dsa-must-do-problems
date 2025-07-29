@@ -111,6 +111,18 @@ This repository contains:
 ├── Day26/
 │   ├── NumberOfIslands.java
 │   └── CloneGraph.java
+├── Day27/
+│   ├── LongestIncreasingPathMatrix.java
+│   └── NetworkDelayTime.java
+├── Day28/
+│   ├── EqualPartitionSubsetSum.java
+│   └── MaxProduct.java
+├── Day29/
+│   ├── EditDistance.java
+│   └── UniquePaths.java
+├── Day30/
+│   ├── 
+│   └── 
 ```
 ---
 
@@ -170,6 +182,12 @@ This repository contains:
 | 25 | Flood Fill Algorithm | [Day/25/FloodFillImage.java](DSA-30Days-Challenge/Day25/FloodFillImage.java) |
 | 26 | Clone Graph | [Day/26/CloneGraph.java](DSA-30Days-Challenge/Day26/CloneGraph.java) |
 | 26 | Number of Islands | [Day/26/NumberOfIslands.java](DSA-30Days-Challenge/Day26/NumberOfIslands.java) |
+| 27 | Longest Increasing Path in a Matrix | [Day/27/LongestIncreasingPathMatrix.java](DSA-30Days-Challenge/Day27/LongestIncreasingPathMatrix.java) |
+| 27 | Network Delay Time | [Day/27/NetworkDelayTime.java](DSA-30Days-Challenge/Day27/NetworkDelayTime.java) |
+| 28 | Partition Equal Subset Sum | [Day/28/EqualPartitionSubsetSum.java](DSA-30Days-Challenge/Day28/EqualPartitionSubsetSum.java) |
+| 28 | Maximum Product Subarray | [Day/28/MaxProduct.java](DSA-30Days-Challenge/Day28/MaxProduct.java) |
+| 29 | Edit Distance (Minimum Operations to Convert String) | [Day/29/EditDistance.java](DSA-30Days-Challenge/Day29/EditDistance.java) |
+| 29 | Unique Paths in a Grid | [Day/29/UniquePaths.java](DSA-30Days-Challenge/Day29/UniquePaths.java) |
 
 > 📌 _More questions will be updated regularly..._
 
@@ -177,8 +195,8 @@ This repository contains:
 ---
 ## 📈 Progress Tracker
 
-> ✅ Completed: `52/60`  
-> 🔄 Remaining: `8`
+> ✅ Completed: `58/60`  
+> 🔄 Remaining: `2`
 
 ```diff
 + Day 01 ✅
@@ -207,3 +225,6 @@ This repository contains:
 + Day 24 ✅
 + Day 25 ✅
 + Day 26 ✅
++ Day 27 ✅
++ Day 28 ✅
++ Day 29 ✅
