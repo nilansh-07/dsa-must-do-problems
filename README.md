@@ -121,8 +121,8 @@ This repository contains:
 │   ├── EditDistance.java
 │   └── UniquePaths.java
 ├── Day30/
-│   ├── 
-│   └── 
+│   ├── CoinChange.java
+│   └── FindMaxSubArray.java
 ```
 ---
 
@@ -188,6 +188,8 @@ This repository contains:
 | 28 | Maximum Product Subarray | [Day/28/MaxProduct.java](DSA-30Days-Challenge/Day28/MaxProduct.java) |
 | 29 | Edit Distance (Minimum Operations to Convert String) | [Day/29/EditDistance.java](DSA-30Days-Challenge/Day29/EditDistance.java) |
 | 29 | Unique Paths in a Grid | [Day/29/UniquePaths.java](DSA-30Days-Challenge/Day29/UniquePaths.java) |
+| 30 | Coin Change Problem (Minimum Coins to Reach Amount) | [Day/30/CoinChange.java](DSA-30Days-Challenge/Day30/CoinChange.java) |
+| 30 | Maximum Sum Circular Subarray | [Day/30/FindMaxSubArray.java](DSA-30Days-Challenge/Day30/FindMaxSubArray.java) |
 
 > 📌 _More questions will be updated regularly..._
 
